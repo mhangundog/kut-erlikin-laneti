@@ -9,6 +9,7 @@ Her 3 dakikada bir Erlik Han seni lanetler: üç lanetten birini seçmek zorunda
 ## İndir ve oyna
 
 1. **[Son sürümü indir (Windows, ~120 MB)](https://github.com/mhangundog/kut-erlikin-laneti/releases/latest)**: `KUT_Erlikin_Laneti_v1.0_Windows.zip`
+   — ya da **[itch.io sayfasından](https://mhangundog.itch.io/kut-erlikin-laneti)** indir.
 2. Zip'i istediğin bir klasöre çıkar. Kurulum gerekmez, oyun taşınabilir.
 3. `KUT.exe` dosyasını çalıştır.
 
@@ -65,4 +66,4 @@ Tüm tuşlar oyun içinden (Ayarlar → Tuşlar) değiştirilebilir. Oyun Türk�
 
 *English:* **KUT: Curse of Erlik** is a dark, hand-painted 2D survivors-like game inspired by Turkic mythology, made with Unity 6 and C#.
 Survive 20 minutes on the steppe, evolve 9 weapons and pick one of Erlik Khan's permanent curses every 3 minutes.
-Download the Windows build from [Releases](https://github.com/mhangundog/kut-erlikin-laneti/releases/latest), unzip and run `KUT.exe` (no install needed). The game is in Turkish.
+Download the Windows build from [Releases](https://github.com/mhangundog/kut-erlikin-laneti/releases/latest) or [itch.io](https://mhangundog.itch.io/kut-erlikin-laneti), unzip and run `KUT.exe` (no install needed). The game is in Turkish.
